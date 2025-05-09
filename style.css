@@ -27,7 +27,21 @@ ul{
 
 }
 li a{
-    display: ;
+    display:block;
+    color: rgb(19, 17, 15);
+    text-decoration: none;
+    padding: 14px 16px;
+    font-family:"molle",cursive;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    
 
 
 }
